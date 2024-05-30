@@ -1,6 +1,6 @@
 # Crypto Clustering 
 
-## In this "Unsupervised Learning" challenge K-means algorithm and Principal Component Analysis (PCA) is used to classify crypto currencies price fluctuations across various timeframes. Specifically, it will examine price changes over intervals spanning 24 hours, 7 days, 30 days, 60 days, 200 days, and 1 year.
+In this "Unsupervised Learning" challenge K-means algorithm and Principal Component Analysis (PCA) is used to classify crypto currencies price fluctuations across various timeframes. Specifically, it will examine price changes over intervals spanning 24 hours, 7 days, 30 days, 60 days, 200 days, and 1 year.
 
 It will use ***StandardScalar()*** module from ***scikit-learn*** to Standardize features from CSV file by removing the mean and scaling to unit variance.  
 ![alt text](image-2.png)  
